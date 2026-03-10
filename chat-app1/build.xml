@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="AyantuChatProject" default="default" basedir=".">
+    <description>Java Chat Application developed by Ayantu.</description>
+    <import file="nbproject/build-impl.xml"/>
+    
+    </project>
